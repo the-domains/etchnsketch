@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Etch n Sketch Designs]]></title>
+        <description><![CDATA[Etch n Sketch Designs]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 01 Mar 2016 19:04:57 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wedding Post Box]]></title>
+            <description><![CDATA[<article><h1>Wedding Post Box</h1><p>Our post box is a fantastic addition to your celebration, This box comes in a kit form as standard, We can build this for you if you wish for a fee. It can be customised to suit your colours and can have your own text on the front to replace the "POST OFFICE" and the "E - R" maybe with your own initials. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bbde99878ab18bcd2a05046c6a985fe11cc9499c.jpg"></article>]]></description>
+            <link>undefinedwedding-post-box/index.html</link>
+            <guid isPermaLink="false">2e52bdbd-5e64-4cfa-bbbd-970f379b5360</guid>
+            <pubDate>Tue, 01 Mar 2016 19:04:56 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
