@@ -1,6 +1,6 @@
 name: Etchnsketch
 favicon: null
-layout_spectrum: 0.6578947
+layout_spectrum: 0.7415
 typography_spectrum: 1
 title: Etch n Sketch Designs
 cta:
@@ -22,7 +22,7 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.1811139
+  brandStrength: 0.5
   lightness: 1
   saturation: 1
   rhythmicContrast: 0
