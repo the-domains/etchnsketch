@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-02T00:06:18.892Z'
-dateModified: '2016-03-02T00:00:52.553Z'
+datePublished: '2016-03-02T00:07:27.859Z'
+dateModified: '2016-03-02T00:06:38.144Z'
 title: Wedding Post Box
 author: []
 sourcePath: _posts/2016-03-01-wedding-post-box.md
