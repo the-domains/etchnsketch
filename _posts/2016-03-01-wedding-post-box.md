@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-01T23:59:37.024Z'
-dateModified: '2016-03-01T23:58:16.170Z'
+datePublished: '2016-03-02T00:06:18.892Z'
+dateModified: '2016-03-02T00:00:52.553Z'
 title: Wedding Post Box
 author: []
 sourcePath: _posts/2016-03-01-wedding-post-box.md
@@ -23,11 +23,6 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f01376d-1acd-47ae-a442-826b5d993fca.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2e94aaf-d6ae-4d24-a9b2-02a625c33eb1.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/879feb03-ebc4-4a00-934d-70d874751118.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d1bf1c9f-f9d3-41e9-9d83-e89f70780ae4.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/243adcba-4b38-4d0b-97ae-c1361ef735d8.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/85657f0f-5187-491d-9af7-8bf1ad65dadd.jpg)
 
 ### Wedding Post Box
 
